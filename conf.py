@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ABC'
-copyright = '2021, Harideep'
-author = 'Harideep'
+copyright = '2021, Vyshnavi Kuncham'
+author = 'Vyshnavi Kuncham'
 
 # The full version, including alpha/beta/rc tags
 release = '2021'
